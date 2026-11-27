@@ -1,0 +1,62 @@
+.text {
+	font-family : Tahoma,Verdana,Arial;
+	font-size : 14px;
+	text-indent: 18px;
+	text-align: justify;
+}
+
+.title {
+	color : #000000;
+	font-size : 14px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 14px;
+	font-family : Tahoma,Verdana,Arial;
+}
+p a {
+	color : #000000;
+	font-weight: bold;
+}
+p a:hover {
+	color : #294A7B;
+}
+.menu01 {
+	color : #FFFFFF;
+	font-size : 14px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.menu01 a {
+	color : #FFFFFF;
+	text-decoration: underline;
+}
+.menu01 a:hover {
+	color : #EEEEEE;
+	font-size : 14px;
+	text-decoration: underline;
+}
+.menu02 {
+	color : #000000;
+	font-size : 14px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	}
+.menu02 a {
+	color : #000000;
+	text-decoration: underline;
+}
+.menu02 a:hover {
+	color : #555555;
+	font-size : 14px;
+	text-decoration: underline;
+}
